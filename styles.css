@@ -1,0 +1,15 @@
+.animate__animated{
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+.animate__slideOutRight{
+    /* animation-iteration-count: 1; */
+    animation-duration: 100s;
+}
+.my-element {
+    display: inline-block;
+    margin: 0 0.5rem;
+    animation: bounce;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
